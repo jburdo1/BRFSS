@@ -1,7 +1,7 @@
 # BRFSS 
 (stick tap to @winstonlarson for his existing BRFSS dataset analysis and the general description below of the BRFSS)
 
-This is a repo to explore the BRFSS AD and Healthy Aging Data
+This is a repo to explore the BRFSS AD and Healthy Aging Data, specifically to investigate how self reported cognitive decline has changed from 2015-2020, and its associated comorbidities.
 
 Insights into health and behavior using data from the CDC
 
@@ -15,3 +15,6 @@ Unfortunately, BRFSS data isn't exactly easy to deal with. Its breadth and struc
 
 
 Alzheimer_s_Disease_and_Healthy_Aging_Data.csv  This data set contains data from BRFSS, years 2015-2020. 214k rows x 39 columns. 
+
+
+<img width="327" alt="image" src="https://user-images.githubusercontent.com/97640624/192911348-29c309a9-138a-40f1-8acf-8439535e8ff2.png">
